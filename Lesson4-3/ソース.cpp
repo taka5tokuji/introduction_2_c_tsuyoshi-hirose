@@ -26,6 +26,7 @@ char map[MAP_H][MAP_W] = {
 
 int pl_x = 1, pl_y = 1;
 int score = 0;
+
 int timer = 300;
 
 void cursor(int x, int y) { printf("\x1b[%d;%dH", y + 1, x + 1); }
