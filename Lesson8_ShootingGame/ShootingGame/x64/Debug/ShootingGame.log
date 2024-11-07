@@ -1,0 +1,12 @@
+﻿  ShootingGame.cpp
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(76,34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(76,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(77,34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(77,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(135,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(135,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(152,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(152,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(342,20): warning C4244: '*=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\ShootingGame\ShootingGame.cpp(558,47): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  ShootingGame.vcxproj -> C:\Users\takak\source\repos\ShootingGame\x64\Debug\ShootingGame.exe

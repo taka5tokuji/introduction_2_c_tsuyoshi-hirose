@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takak\\source\\repos\\Car Racing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13888F79-7288-4C40-B06B-F95D6D1E8FE4}|Car Racing.vcxproj|C:\\Users\\takak\\source\\repos\\Car Racing\\CarRacing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13888F79-7288-4C40-B06B-F95D6D1E8FE4}|Car Racing.vcxproj|solutionrelative:CarRacing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRacing.cpp",
+              "DocumentMoniker": "C:\\Users\\takak\\source\\repos\\Car Racing\\CarRacing.cpp",
+              "RelativeDocumentMoniker": "CarRacing.cpp",
+              "ToolTip": "C:\\Users\\takak\\source\\repos\\Car Racing\\CarRacing.cpp",
+              "RelativeToolTip": "CarRacing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T01:34:34.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
