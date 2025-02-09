@@ -1,0 +1,3 @@
+﻿  ソース.cpp
+C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson10-1\ソース.cpp(80,64): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Lesson10-1.vcxproj -> C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson10-1\x64\Debug\Lesson10-1.exe

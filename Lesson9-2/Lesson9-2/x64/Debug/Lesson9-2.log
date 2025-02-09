@@ -1,0 +1,6 @@
+﻿  ソース.cpp
+C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson9-2\ソース.cpp(35,19): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson9-2\ソース.cpp(36,19): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson9-2\ソース.cpp(41,15): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson9-2\ソース.cpp(42,15): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Lesson9-2.vcxproj -> C:\Users\takak\source\repos\introduction_2_c\introduction_2_c_tsuyoshi-hirose\Lesson9-2\x64\Debug\Lesson9-2.exe

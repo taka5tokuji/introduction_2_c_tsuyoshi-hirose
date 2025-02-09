@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takak\\source\\repos\\introduction_2_c\\introduction_2_c_tsuyoshi-hirose\\Lesson9-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2558-D35F-4849-AB5A-A6CEDCFD0CF6}|Lesson9-1.vcxproj|C:\\Users\\takak\\source\\repos\\introduction_2_c\\introduction_2_c_tsuyoshi-hirose\\Lesson9-1\\\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D6B2558-D35F-4849-AB5A-A6CEDCFD0CF6}|Lesson9-1.vcxproj|solutionrelative:\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u30BD\u30FC\u30B9.cpp",
+              "DocumentMoniker": "C:\\Users\\takak\\source\\repos\\introduction_2_c\\introduction_2_c_tsuyoshi-hirose\\Lesson9-1\\\u30BD\u30FC\u30B9.cpp",
+              "RelativeDocumentMoniker": "\u30BD\u30FC\u30B9.cpp",
+              "ToolTip": "C:\\Users\\takak\\source\\repos\\introduction_2_c\\introduction_2_c_tsuyoshi-hirose\\Lesson9-1\\\u30BD\u30FC\u30B9.cpp",
+              "RelativeToolTip": "\u30BD\u30FC\u30B9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T09:44:45.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
